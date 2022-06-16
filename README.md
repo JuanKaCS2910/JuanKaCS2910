@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JuanKaCS2910
 - 👀 I’m interested in new technology about AI
-- 🌱 I’m currently learning Figma, React and Xamarin.
+- 🌱 I’m currently learning Figma, Angular, React and Xamarin.
 - 💞️ I’m looking to collaborate on AI, blockchain
 - 📫 How to reach me juan.castro.socla@gmail.com
 
